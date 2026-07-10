@@ -101,9 +101,11 @@ To optimize speed and ensure the robot could cover the required course distance 
 
 *Testing identified the optimal duty cycle for consistent forward progress. Ultimately, a piston activation length of 0.225s was chosen to optimize robot speed.*
 
-![Activation length vs. time to 64 inches - table](images/test-activation-vs-time-table.jpg)
-
-![Activation length vs. time to 64 inches - graph](images/test-activation-vs-time-graph.jpg)
+<p align="center">
+  <img src="images/test-activation-vs-time.jpg" width="45%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/test-impulse-measured.jpg" width="45%"/>
+</p>
 
 ---
 
