@@ -60,7 +60,7 @@ This project required significant mechanical iteration. Both the steering and pr
 
 ---
 
-### Steering — 3 Iterations
+### Steering – 3 Iterations
 
 **Iteration 1: Ackermann Steering (top-mounted)**  
 Classic Ackermann geometry placed on top of the chassis base. The 3D printed components could not support the weight of the robot bearing down on the steering assembly – parts deflected and failed under load.
@@ -115,7 +115,7 @@ Measured position vs. time and velocity vs. time for the final hopper propulsion
 
 ## Tools & Skills Used
 
-`SolidWorks` `FDM 3D Printing` `Bambu X1C` `Orca Slicer` `Band Saw` `Drill Press` `Laser Cutter` `Arduino` `Pneumatic Systems` 
+`SolidWorks` `FDM 3D Printing` `Bambu X1C` `Orca Slicer` `Band Saw` `Drill Press` `Laser Cutter` `Arduino` `Pneumatic Systems`
 `Mechanical Design` `Fabrication` `System Integration` `Technical Documentation`
 
 ---
