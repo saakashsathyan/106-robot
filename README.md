@@ -97,7 +97,7 @@ Mounted the pneumatic cylinder to the rear of the robot, with a rubber stopper a
 
 To optimize speed and ensure the robot could cover the required course distance within the competition window, we tested how piston firing duration (activation length) affected the time to travel 64 inches.
 
-*Longer activation lengths provided more impulse per cycle but reduced cycle frequency. Testing identified the optimal duty cycle for consistent forward progress.*
+*Testing identified the optimal duty cycle for consistent forward progress. Ultimately, a piston activation length of 0.225s was chosen to optimize robot speed.*
 
 ![Activation length vs. time to 64 inches - table](test-activation-vs-time-table.jpg)
 
