@@ -49,9 +49,9 @@ The robot uses a single pneumatic cylinder powered by a compressed air tire for 
 *Full assembly modeled in SolidWorks.*
 
 <p align="center">
-  <img src="images/cad-assembly-front.jpg" width="45%" height="800px" style="object-fit:cover;"/>
+  <img src="images/cad-assembly-front.jpg" width="45%" height="600px" style="object-fit:cover;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/cad-assembly-rear.jpg" width="45%" height="800px" style="object-fit:cover;"/>
+  <img src="images/cad-assembly-rear.jpg" width="45%" height="600px" style="object-fit:cover;"/>
 </p>
 
 ---
