@@ -99,7 +99,9 @@ To optimize speed and ensure the robot could cover the required course distance 
 
 *Longer activation lengths provided more impulse per cycle but reduced cycle frequency. Testing identified the optimal duty cycle for consistent forward progress.*
 
-![Activation length vs. time to 64 inches](images/test-activation-vs-time.jpg)
+![Activation length vs. time to 64 inches - table](images/test-activation-vs-time-table.jpg)
+
+![Activation length vs. time to 64 inches - graph](images/test-activation-vs-time-graph.jpg)
 
 ---
 
@@ -107,9 +109,9 @@ To optimize speed and ensure the robot could cover the required course distance 
 
 Measured position vs. time and velocity vs. time for the final hopper propulsion system.
 
-![Position vs. time – measured vs. simulated](images/test-position-vs-time.jpg)
+![Position vs. time – measured](images/test-position-vs-time.jpg)
 
-![Velocity vs. time – measured vs. simulated](images/test-velocity-vs-time.jpg)
+![Velocity vs. time – measured](images/test-velocity-vs-time.jpg)
 
 ---
 
