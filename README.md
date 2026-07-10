@@ -101,10 +101,6 @@ To optimize speed and ensure the robot could cover the required course distance 
 
 *Testing identified the optimal duty cycle for consistent forward progress. Ultimately, a piston activation length of 0.225s was chosen to optimize robot speed.*
 
-![Piston activation length vs time to 64 inches](images/test-activation-vs-time-table.jpg)
-
-![Position and velocity vs time — measured](images/test-activation-vs-time-graph.jpg)
-
 <img src="images/test-activation-vs-time-table.jpg" width="70%"/>
 
 <img src="images/test-activation-vs-time-graph.jpg" width="70%"/>
@@ -115,9 +111,9 @@ To optimize speed and ensure the robot could cover the required course distance 
 
 Measured position vs. time and velocity vs. time for the final hopper propulsion system.
 
-![Position vs. time – measured](images/test-position-vs-time.jpg)
+<img src="images/test-position-vs-time.jpg" width="70%"/>
 
-![Velocity vs. time – measured](images/test-velocity-vs-time.jpg)
+<img src="images/test-velocity-vs-time.jpg" width="70%"/>
 
 ---
 
@@ -125,7 +121,7 @@ Measured position vs. time and velocity vs. time for the final hopper propulsion
 
 Compared measured propulsion impulse response against a simulated model to validate our understanding of the system dynamics.
 
-![Position vs. time & Velocity vs. time – simulated](images/sim-position+velocity-vs-time.jpg)
+<img src="images/sim-position+velocity-vs-time.jpg" width="70%"/>
 
 ## Tools & Skills Used
 
