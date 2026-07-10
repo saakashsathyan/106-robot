@@ -15,7 +15,7 @@ Final project for UCI's MAE 106 lab course. The objective: design, build, and pr
 
 The robot uses a single pneumatic cylinder powered by a compressed air tire for propulsion, a servo motor for steering, and an Arduino microcontroller for autonomous navigation. It orients itself using a magnetometer for bearing and a limit switch for wheel-rotation odometry.
 
-**Competition result:** The robot successfully exited the starting zone, made the first turn, and traveled approximately halfway down the course without falling into the trench — meeting the full-credit objective. It ran out of compressed air before completing the full course.
+**Competition result:** The robot successfully exited the starting zone, made the first turn, and traveled approximately halfway down the course without falling into the trench – meeting the full-credit objective. It ran out of compressed air before completing the full course.
 
 ---
 
