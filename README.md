@@ -48,9 +48,9 @@ The robot uses a single pneumatic cylinder powered by a compressed air tire for 
 
 *Full assembly modeled in SolidWorks.*
 
-![Full assembly – front view](images/cad-assembly-front.png)
+![Full assembly – front view](images/cad-assembly-front.jpg)
 
-![Full assembly – rear view](images/cad-assembly-rear.png)
+![Full assembly – rear view](images/cad-assembly-rear.jpg)
 
 ---
 
@@ -99,19 +99,25 @@ To optimize speed and ensure the robot could cover the required course distance 
 
 *Longer activation lengths provided more impulse per cycle but reduced cycle frequency. Testing identified the optimal duty cycle for consistent forward progress.*
 
-![Activation length vs. time to 64 inches](images/test-activation-vs-time.png)
+![Activation length vs. time to 64 inches](images/test-activation-vs-time.jpg)
 
 ---
 
-### Propulsion Impulse Response
+### Measured Propulsion Impulse Response
 
-Measured position vs. time and velocity vs. time for the final hopper propulsion system, then compared against a simulated model to validate our understanding of the system dynamics.
+Measured position vs. time and velocity vs. time for the final hopper propulsion system.
 
-![Position vs. time – measured vs. simulated](images/test-position-vs-time.png)
+![Position vs. time – measured vs. simulated](images/test-position-vs-time.jpg)
 
-![Velocity vs. time – measured vs. simulated](images/test-velocity-vs-time.png)
+![Velocity vs. time – measured vs. simulated](images/test-velocity-vs-time.jpg)
 
 ---
+
+### Simulated Propulsion Impulse Response
+
+Compared measured propulsion impulse response against a simulated model to validate our understanding of the system dynamics.
+
+![Position vs. time & Velocity vs. time – simulated](images/sim-position+velocity-vs-time.jpg)
 
 ## Tools & Skills Used
 
