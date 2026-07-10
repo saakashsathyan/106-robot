@@ -34,7 +34,7 @@ The robot uses a single pneumatic cylinder powered by a compressed air tire for 
 
 | Subsystem | Final Solution | Notes |
 |---|---|---|
-| Propulsion | Hopper — pneumatic cylinder pushing against ground via rubber stopper | 3rd iteration |
+| Propulsion | Hopper – pneumatic cylinder pushing against ground via rubber stopper | 3rd iteration |
 | Steering | Single servo-driven wheel mounted through base | 3rd iteration |
 | Controller | Arduino microcontroller | Electrical coordinator |
 | Sensors | Magnetometer (bearing) + limit switch (odometry) | Electrical coordinator |
@@ -115,7 +115,8 @@ Measured position vs. time and velocity vs. time for the final hopper propulsion
 
 ## Tools & Skills Used
 
-`SolidWorks` `FDM 3D Printing` `Bambu X1C` `Orca Slicer` `Band Saw` `Drill Press` `Laser Cutter` `Arduino` `Pneumatic Systems` `Mechanical Design` `Fabrication` `System Integration` `Technical Documentation`
+`SolidWorks` `FDM 3D Printing` `Bambu X1C` `Orca Slicer` `Band Saw` `Drill Press` `Laser Cutter` `Arduino` `Pneumatic Systems` 
+`Mechanical Design` `Fabrication` `System Integration` `Technical Documentation`
 
 ---
 
